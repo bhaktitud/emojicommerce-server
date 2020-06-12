@@ -38,7 +38,7 @@ FAQ
 
 ### How do I start the app?
 
-Start with `npm start`. The server will look for any files you add to the `public/` directory.
+Start with `npm install` to install all dependencies and then `npm start`. The server will look for any files you add to the `public/` directory.
 
 ### What libraries/frameworks, packages, tools can I use?
 
